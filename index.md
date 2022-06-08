@@ -1,6 +1,8 @@
 ## Shadow's Forest game
 Hola, si lo que buscas es descargar la última versión (eso si es que hay más) lo podrás descargar mediante el enlace siguiente que te lleva a un archivo subido a drive, el cual tienes que descargar.
 
+https://drive.google.com/file/d/1iyPqYEJgzJCXraLx2bWE3AGbUEdqA7Ob/view?usp=sharing
+
 A la hora de descargarlo posiblemente no haya ningún problema, pero después al intentar ejecutar el juego te salga un aviso de Windows Defender diciendo que el archivo podría ser peligroso. No deberíais hacer caso a la alerta ja que es una falsa alarma. Si os interesa saber el porqué de la amenaza es porque es un archivo .exe que en la mayoría de casos los malwares se esconden en archivos con esta extensión
 Después de que te salga la alerta de amenaza solo hará falta darle al botón de "Más información" y "Ejecutar"
 ##Como Descargar el juego?
