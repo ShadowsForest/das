@@ -1,15 +1,12 @@
 ## Shadow's Forest game
-Hola, si lo que buscas es descargar la ultima version (eso si es que hay mas) lo podras descargar mediante el enlaze siguiente que te lleva a un archivo subido en mega, el cual tienes que descargar.
+Hola, si lo que buscas es descargar la última versión (eso si es que hay más) lo podrás descargar mediante el enlace siguiente que te lleva a un archivo subido a drive, el cual tienes que descargar.
 
-
-
-Ha la hora de descargarlo posiblemente no haya ningun problema pero despues al intentar ejecutar el juego te salga un aviso de Windows Defender diciendo que el archivo podria ser peligroso. No deberiais hacer caso a la alerta ja que es una falsa alarma. Si os interesa saber el porque de la amenaza es porque es un archivo .exe que en la mayoria de caso los malwares se esconden en archivos con esta extension 
-Despues de que te salga la alerta de amenaza solo hara falta darle al boton de "Mas informacion" y "Ejecutar"
+A la hora de descargarlo posiblemente no haya ningún problema, pero después al intentar ejecutar el juego te salga un aviso de Windows Defender diciendo que el archivo podría ser peligroso. No deberíais hacer caso a la alerta ja que es una falsa alarma. Si os interesa saber el porqué de la amenaza es porque es un archivo .exe que en la mayoría de casos los malwares se esconden en archivos con esta extensión
+Después de que te salga la alerta de amenaza solo hará falta darle al botón de "Más información" y "Ejecutar"
 ##Como Descargar el juego?
-#Estos pasos pueden variar depende de la aplicacion que utilizes para los archivos .zip, en mis caso 7zip
-Una vez lo has descargado, en la carpeta de descargas (o direccion la cual esta asociada a tu navegador para guardar archivos descargados) tienes que hacer click derecho en el archivo y despues seleccionar la opcion de extraer aqui. 
-Una vez extraido abres la carpeta que se ha extraido y debes procurar de no mover nada de esa carpeta ya que podria no iniciar el juego por archivos faltantes. El archivo que debes abrir es el de extension .exe, el que tenga el logo corresponidente a "Godot Engine". Despues de abrir el juego se abrira otra pantalla con el cmd, no cierres esta ventana porque si no el juego tambien se cerrara. Seguramente despues de llevar un timepo jugando podras ver que en el cmd seven varios errores, eso es debido a que hay scripts dentro del juego los cuales no sirven para nada i estan mal
-
+#Estos pasos pueden variar depende de la aplicación que utilizas para los archivos .zip, en mi caso 7zip
+Una vez lo has descargado, en la carpeta de descargas (o dirección la cual está asociada a tu navegador para guardar archivos descargados) tienes que hacer clic derecho en el archivo y después seleccionar la opción de extraer aquí.
+Una vez extraído abres la carpeta que se ha extraído y debes procurar de no mover nada de esa carpeta, ya que podría no iniciar el juego por archivos faltantes. El archivo que debes abrir es el de extensión .exe, el que tenga el logo correspondiente a "Godot Engine". Después de abrir el juego se abrirá otra pantalla con el cmd, no cierres esta ventana porque si no el juego también se cerrara. Seguramente después de llevar un tiempo jugando podrás ver que en el cmd se veran varios errores, eso es debido a que hay scripts dentro del juego los cuales no sirven para nada y están mal
 
 
 
